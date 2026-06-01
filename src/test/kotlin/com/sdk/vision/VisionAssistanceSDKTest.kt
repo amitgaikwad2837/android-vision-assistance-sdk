@@ -2,6 +2,7 @@ package com.sdk.vision
 
 import org.junit.Test
 import kotlin.test.assertEquals
+import kotlin.test.assertTrue
 
 class VisionAssistanceSDKTest {
     @Test
