@@ -1,16 +1,21 @@
 ﻿# Android Vision Assistance SDK
 
+## 📦 Registry & Repository
+
+- **Maven Central**: [io.github.amitgaikwad2837:android-vision-assistance-sdk](https://central.sonatype.com/artifact/io.github.amitgaikwad2837/android-vision-assistance-sdk)
+- **GitHub**: [amitgaikwad2837/android-vision-assistance-sdk](https://github.com/amitgaikwad2837/android-vision-assistance-sdk)
+
 ## Overview
 
-Real-time vision assistance for visually impaired users
+AI-powered vision assistance for blind and low vision users. Provides real-time scene descriptions, object detection, text reading, navigation assistance, and activity recognition.
 
 ## Installation
 
-Add the Maven dependency once artifacts are published:
+Add the Maven dependency:
 
 ~~~kotlin
 dependencies {
-  implementation("io.github.amitgaikwad2837:android-vision-assistance-sdk:1.0.0")
+  implementation("io.github.amitgaikwad2837:android-vision-assistance-sdk:0.0.9")
 }
 ~~~
 
